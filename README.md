@@ -1,6 +1,4 @@
---------------------------------------------------------------------------
-			   Synthèse vocale
---------------------------------------------------------------------------
+# Synthèse vocale avec Praat
 Projet réalisé dans le cadre du cours Phonétique et synthèse de la parole.
 
 Vous trouverez dans l'archive les fichiers suivants :
@@ -15,7 +13,7 @@ Total de diphones enregistrés : 102
 Version de Praat utilisé : 6.1.26 (MacOS)
 
 
----------------------------- I. MODE D'EMPLOI ----------------------------
+## I. MODE D'EMPLOI
 Il y a plusieurs options à cocher dans la boîte de dialogue :
 
 1.	Dans le menu déroulant, choississez la phrase à synthétiser OU
@@ -39,9 +37,11 @@ resultat.wav
 
 5. Cochez "Supprimer" pour supprimer les objets Praat à la fin du traitement.
 
- ![Screenshot](boite-de-dialogue.png) 
+Un aperçu d'une boîte de dialogue :
 
-------------------- II. LES PHRASES / MOTS À SYNTHETISER ----------------
+ <img src="boite-de-dialogue.png" alt="drawing" width="500"/>
+
+## II. LES PHRASES / MOTS À SYNTHETISER
 Dans le menu déroulant de la boîte de dialogue vous trouverez les phrases
 que l'on peut synthétiser, celui-ci inclut :
 
@@ -67,7 +67,7 @@ j'aime, vit
 
 
 
---------------------------- III. DICTIONNAIRE ---------------------------
+##  III. DICTIONNAIRE
 Le dictionnaire est crée à partir de la liste des phrases / mots ci-dessus.
 
 Tous les non-ASCII caractères sont remplacés par les caractères ASCII de
