@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------
-							Synthèse vocale
+			   Synthèse vocale
 --------------------------------------------------------------------------
 Projet réalisé dans le cadre du cours Phonétique et synthèse de la parole.
 
@@ -39,6 +39,7 @@ resultat.wav
 
 5. Cochez "Supprimer" pour supprimer les objets Praat à la fin du traitement.
 
+ ![Screenshot](boite-de-dialogue.png) 
 
 ------------------- II. LES PHRASES / MOTS À SYNTHETISER ----------------
 Dans le menu déroulant de la boîte de dialogue vous trouverez les phrases
